@@ -1,0 +1,37 @@
+* h1 {
+    color: red;
+}
+
+#mb {
+    color: blueviolet;
+}
+
+span {
+    font-weight: bold;
+    color: brown;
+}
+
+.model {
+    background-color: bisque;
+}
+
+.m_color1,.m_color {
+    color: rgb(1, 105, 71);
+}
+
+h2+p {
+    background-color: aquamarine;
+}
+
+tr>td {
+    background-color: pink;
+}
+
+h2~p {
+   color: rgb(2, 2, 174);
+}
+
+table [href] {
+    color: red;
+}
+
