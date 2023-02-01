@@ -35,3 +35,6 @@ table [href] {
     color: red;
 }
 
+div [id="mb"] {
+    background-color: rgb(240, 197, 226);
+}
